@@ -1,0 +1,142 @@
+/* -------- Fonts ---------- */
+@font-face {
+  font-family: "montserrat-bold";
+  src: url(./assets/font/Montserrat-Bold.ttf);
+}
+
+@font-face {
+  font-family: "montserrat-regular";
+  src: url(./assets/font/Montserrat-Regular.ttf);
+}
+
+* {
+  font-family: "montserrat-regular", "Helvetica", sans-serif;
+}
+
+.bold {
+  font-family: "montserrat-bold", "Helvetica", sans-serif;
+}
+
+html,
+body,
+p {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+nav,
+main {
+  max-width: 1080px;
+}
+
+a {
+  padding: 0.25rem 0.75rem;
+  color: rgba(0, 0, 0, 0.5);
+  text-decoration: none;
+}
+
+/* -------- Navbar ---------- */
+.navbar {
+  background-color: #fff;
+  padding: 1rem 1rem;
+  margin: auto !important;
+  position: relative;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+#nav-logo {
+  font-size: 1.6rem;
+  color: rgba(0, 0, 0, 0.9);
+  display: inline-block;
+  margin-right: 1rem;
+  white-space: nowrap;
+  line-height: inherit;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+  /* flex-basis: auto; */
+  /* flex-grow: 1; */
+  align-items: space-around;
+  margin-left: auto !important;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.nav-button {
+  display: block;
+  font-family: "montserrat-bold";
+}
+
+.nav-button.current {
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.navbar-nav a:hover {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+/* -------- Main ---------- */
+main {
+  display: block;
+  margin: auto !important;
+}
+
+/* -------- Home ---------- */
+
+.about-me {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 85vh;
+}
+
+main .about-me .profile-pic {
+  margin: 0 auto;
+  margin-left: 6rem;
+  width: 15rem;
+}
+
+main .about-me .profile-pic img {
+  width: 15rem;
+  border-radius: 50%;
+  vertical-align: middle;
+  border-style: none;
+}
+
+main .about-me .about-info h1 {
+  font-size: 3.5rem;
+  text-align: left;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+main .about-me .about-info p {
+  text-align: left;
+  font-size: 1.3rem;
+  margin-left: 2rem;
+}
+
+main .about-me .code-signature {
+  font-family: "montserrat-bold";
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 2rem;
+}
+
+main .about-me .socials {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.socials a:hover {
+  transform: scale(1.09);
+  color: rgba(0, 0, 0, 0.7);
+}
