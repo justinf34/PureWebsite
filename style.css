@@ -176,3 +176,41 @@ main .about-me .socials {
 main .cards .project-card:hover {
   transform: scale(1.05);
 }
+
+/* -------- Resume ---------- */
+.resume-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 85vh;
+  justify-content: flex-start;
+}
+
+.resume-info button {
+  margin: 0;
+  margin-top: 1rem;
+  font-size: 1rem;
+  border: none;
+  display: block;
+  background-color: black;
+  color: #fff;
+  padding: 0.5rem 2rem;
+  font-family: "montserrat-bold";
+}
+
+.resume-picture {
+  display: block;
+  box-shadow: 0px 6px 52px -25px rgba(0, 0, 0, 0.6);
+  transition: 0.3s all ease-in-out;
+  color: black;
+  margin: 0 10rem;
+}
+
+.resume-container .resume-picture img {
+  width: 100%;
+  height: 100%;
+}
+
+.resume-container .resume-picture:hover {
+  transform: scale(1.05);
+}

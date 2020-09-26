@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_1"><path d="M0,0H935V1210H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1{
+font-size: 31.57px;
+font-family: Roboto-Bold_15;
+fill: #000;
+}
+.s2{
+font-size: 15.22px;
+font-family: FontAwesome_10;
+fill: #000;
+}
+.s3{
+font-size: 15.22px;
+font-family: Roboto-Regular_h;
+fill: #000;
+}
+.s4{
+font-size: 14.61px;
+font-family: MathDesign-CH-Regular-Symbol-_m;
+fill: #000;
+}
+.s5{
+font-size: 18.26px;
+font-family: Roboto-Regular_h;
+fill: #000;
+}
+.s6{
+font-size: 16.67px;
+font-family: Roboto-Bold_15;
+fill: #000;
+}
+.s7{
+font-size: 16.67px;
+font-family: Roboto-Regular_h;
+fill: #000;
+}
+.s8{
+font-size: 15.22px;
+font-family: Roboto-Italic_r;
+fill: #000;
+}
+.s9{
+font-size: 16.67px;
+font-family: Roboto-Italic_r;
+fill: #000;
+}
+
+.g0{
+fill: none;
+stroke: #000000;
+stroke-width: 0.608;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<g clip-path="url(#c_1)">
+<text x="375" y="78" dx="0,0,0,0,0,0,0,0,0,0,0,-.3,0" class="s1">Justin Flores</text>
+<text x="120" y="96" class="s2"></text>
+<text x="136" y="96" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,.1,-.8,0,0" class="s3">: justin.ﬂores@ucalgary.ca</text>
+<text x="317" y="96" class="s4">|</text>
+<text x="325" y="96" class="s2"></text>
+<text x="337" y="96" class="s3">: 403-479-2746</text>
+<text x="441" y="96" class="s4">|</text>
+<text x="449" y="96" class="s2"></text>
+<text x="462" y="96" class="s3">: github.com/justinf34</text>
+<text x="615" y="96" class="s4">|</text>
+<text x="623" y="96" class="s2"></text>
+<text x="636" y="96" dx="0,0,.6,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s3">: linkedin.com/in/justinf34</text>
+<text x="54" y="132" dx="0,-.2,0,0,0,0,0,0,0" class="s5">Education</text>
+<path d="M55,138.9H880" class="g0"/>
+<text x="58" y="160" class="s6">B.Sc in Computer Science, Minor in Data Science</text>
+<text x="671" y="160" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,-.1,0,0,0" class="s7">September 2017 - June 2022</text>
+<text x="58" y="181" dx="0,0,0,0,-.1,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,.1" class="s8">University of Calgary</text>
+<text x="807" y="181" dx="0,0,0,0,0,0,.1,-.8,0,-.1,0" class="s8">Calgary, AB</text>
+<text x="76" y="205" dx="0,0,4.1,0,-1.1,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,-.9,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0" class="s7">• GPA: 3.83/4.00; Dean’s List (2018-2019 &amp; 2019-2020)</text>
+<text x="54" y="239" dx="0,-.9,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0" class="s5">Technical Skills</text>
+<path d="M55,246H880" class="g0"/>
+<text x="73" y="265" dx="0,0,-.3,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6">Programming Languages:</text>
+<text x="271" y="265" dx="0,0,-.1,-.1,0,0,0,0,0,0,0,0,0,.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,-.1,-.1,0,0,-.1,-.2,0,0,0,0,0,0,0,0,0,0,0,0" class="s7">JavaScript, Python, SQL, C/C++, Java, HTML/CSS, Bash</text>
+<text x="73" y="289" dx="0,-1.7,0,0,0,0" class="s6">Tools:</text>
+<text x="123" y="289" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,-.1,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,-.1,-.1,0,0,0,0,-.2,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,-.2,0,-1,0,0,-.6,0" class="s7">React, Node.js, Express.js, Flask, Git, Firebase, Firebase, PostgreSQL, Linux, Docker, AWS</text>
+<text x="54" y="323" dx="0,0,-.2,0,0,0,0,0" class="s5">Projects</text>
+<path d="M55,330.2H880" class="g0"/>
+<text x="58" y="351" dx="0,0,0,0,0,0,0,0,0,-.1,0,.4,0" class="s6">Spotify Party</text>
+<text x="73" y="372" class="s2"></text>
+<text x="91" y="372" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,.4,0" class="s8">github.com/justinf34/Spotify-Party</text>
+<text x="76" y="399" dx="0,0,4.1,0,-.1,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1" class="s7">• Developed a web application that hosts lobbies for users to chat and listen to the same Spotify song by</text>
+<text x="90" y="420" dx="0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,-.9" class="s7">synchronizing audio playback across multiple clients on the same lobby.</text>
+<text x="76" y="444" dx="0,0,4.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.2,-.1,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,.2,-.1,0,-1" class="s7">• Reduced main server load and decrease delay by assigning user authentication to another server.</text>
+<text x="76" y="468" class="s7">•</text>
+<text x="90" y="468" dx="0,-.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6">Technologies used:</text>
+<text x="240" y="468" dx="0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7">React, Firebase, Socket.io, Node.js, Express.js, Spotify API</text>
+<text x="58" y="505" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.5,0,0,-.5,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6">UofC Course YouTube Playlist Compiler</text>
+<text x="73" y="526" class="s2"></text>
+<text x="91" y="526" class="s8">github.com/justinf34/Hackathon2020</text>
+<text x="76" y="553" dx="0,0,4.1,0,-.1,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,-.1,0,0,0,0,0,0,0,0,-.1,0,-.1,0,0,-.1,0,0,0,0,0,-.1,0,0,-.1,-.5,0,0,-.8,0,0,0,-.1,0,0,0,0,0,0,-.1,-.2,0,0,0,0,0,0,0,-.2,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,0,0,0,.7,0,0,-.1,0,0,0,0,0,0,-.1,0,-.1,0,0,0,0,0,-.6,-.9" class="s7">• A web application that compiles a playlist of YouTube videos related to a U of C course. It parses a course’s</text>
+<text x="89" y="574" dx="0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,-.1,-.2,-.1,0,0,-.2,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,-.2,0,0,0,0,0,0,-.2,0,0,0,0,0,-.2,0,0,-.1,0,0,0,0,-.2,0,0,0,0,0,0,0,-.5,0,0,-.8,0,0,0,0,0,0,0,0,0,0" class="s7">web page to ﬁnd its key topics and use those topics to search for related YouTube videos.</text>
+<text x="76" y="598" dx="0,0,4.1,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,-.1,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,-.1,0,-.2,-.1,0,0,0,0,0,-.1,0,0,0,0,0" class="s7">• Reduced user wait times by designing a back-end that caches results of previous users.</text>
+<text x="76" y="622" class="s7">•</text>
+<text x="90" y="622" dx="0,-.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6">Technologies used:</text>
+<text x="240" y="622" dx="0,0,-.1,-.1,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.1,.1,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,-.1,-.5,0" class="s7">Javascript, HTML/CSS, Python, Flask, Firebase, AWS</text>
+<text x="58" y="659" class="s6">Clinic eBooking</text>
+<text x="73" y="679" class="s2"></text>
+<text x="91" y="679" class="s8">github.com/justinf34/eBooking</text>
+<text x="76" y="707" dx="0,0,4.1,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0" class="s7">• A web application for patients to book and manage their visits without the need of a receptionist.</text>
+<text x="76" y="731" class="s7">•</text>
+<text transform="matrix(0.99,0,0,1,90,731)" dx="0,0,0,0,-.2,-.1,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,.7,0,0,0,0,0,0" class="s7">Improved system security by integrating a cookie-based authentication to identify the session owner. As well</text>
+<text x="90" y="752" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,-.2,-.1,-.1,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7">as hashed passwords and input sanitization to prevent SQL injection attacks.</text>
+<text x="76" y="776" dx="0,0,4.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.2,-.1,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0" class="s7">• Designed, implemented, and tested a relational database and a back-end server to facilitate scheduling of</text>
+<text x="90" y="797" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,-.1,0,0,0,0,0,0,0" class="s7">appointments and handling user requests.</text>
+<text x="76" y="821" class="s7">•</text>
+<text x="90" y="821" dx="0,-.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6">Technologies used:</text>
+<text x="240" y="821" dx="0,0,-.1,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,.2,-.9,0,-.1,-.2,0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0" class="s7">Javascript, jQuery, HTML/CSS, AWS EC2, Node.js, Express.js</text>
+<text x="58" y="857" dx="0,-.1,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,.4,0,0" class="s6">Auto Garbage Sorter</text>
+<text x="73" y="878" class="s2"></text>
+<text x="91" y="878" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,-.2,-.2,0,0,0,0,0" class="s8">github.com/justinf34/Smart_Garbage_Frontend</text>
+<text x="76" y="905" dx="0,0,4.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,-.1,0,0,-.1,0,0,0,.4,0,0,0,0,0,0,-.1,0,0,0,0,-.3,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,-.1,0,0,0,0,0,0,-.1,0,0" class="s7">• A mobile application that utilizes smartphone cameras and machine learning to classify recyclable and</text>
+<text transform="matrix(0.99,0,0,1,90,926)" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7">compostable waste products. Responsible for designing and developing the front-end component of the app.</text>
+<text x="76" y="950" dx="0,0,4.1,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,-.1,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.7,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,-.2,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0" class="s7">• This project won $100 in prizes at the Code The Change Hackathon. Donated to Doctors Without Borders.</text>
+<text x="76" y="974" class="s7">•</text>
+<text x="90" y="974" dx="0,-.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6">Technologies used:</text>
+<text x="240" y="974" dx="0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0" class="s7">React Native, Expo</text>
+<text x="55" y="1008" dx="0,-.3,0,0,-.2,0,0,-.1,0,0,0,0,0,0,-.1,-.1,0,0,0,0,0" class="s5">Awards &amp; Achievements</text>
+<path d="M55,1015.6H880" class="g0"/>
+<text x="76" y="1040" dx="0,0,4.1,-.1,0,.4,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,-.1,-.5,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,-.2,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0" class="s7">• Participated in the First Year Scholars program for academically high-achieving incoming students.</text>
+<text x="76" y="1064" dx="0,0,4.1,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,.2,0,-.1,0,0,0,0,0,0,0,0,0,-.1,0,-.1,0,-.2,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0" class="s7">• Member of the University of Calgary Competitive Programming Club.</text>
+<text x="76" y="1088" dx="0,0,4.1,0,0,0,0,0,-.1,0,0,0,0,0" class="s7">• Received the</text>
+<text x="188" y="1088" dx="0,-.1,0,0,0,0,-.6,-.9,0,-.1,0,0,0,0,0,0,-.1,-.3,0,0,-.2" class="s9">People’s Choice Award</text>
+<text x="357" y="1088" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,-.1,0,0,0,-.9" class="s7">in the Code the Change Hackathon hosted by Benevity.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: FontAwesome_10;
+	src: url("fonts/FontAwesome_10.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathDesign-CH-Regular-Symbol-_m;
+	src: url("fonts/MathDesign-CH-Regular-Symbol-_m.woff") format("woff");
+}
+
+@font-face {
+	font-family: Roboto-Bold_15;
+	src: url("fonts/Roboto-Bold_15.woff") format("woff");
+}
+
+@font-face {
+	font-family: Roboto-Italic_r;
+	src: url("fonts/Roboto-Italic_r.woff") format("woff");
+}
+
+@font-face {
+	font-family: Roboto-Regular_h;
+	src: url("fonts/Roboto-Regular_h.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
